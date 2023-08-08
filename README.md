@@ -8,6 +8,8 @@
 
 Bilibili:
 
+https://www.bilibili.com/video/BV1X5411W7gu/
+
 <a href="https://www.bilibili.com/video/BV1X5411W7gu/" title=""><img width = "320" height = "200"  src="https://i1.hdslb.com/bfs/archive/edf355f68cfe8e836230fd73282da1cf36f7a8c8.jpg@320w_200h_1c_!web-space-upload-video.webp" alt="" /></a>
 
 CAPCOM已于2014年7越30日，停止了对MHP1初代的配信服务
@@ -31,6 +33,8 @@ CAPCOM已于2014年7越30日，停止了对MHP1初代的配信服务
 无需自行部署服务器。
 
 下载地址：
+
+百度云：https://pan.baidu.com/s/1Nr811WUWFjuGF4IuzNfqxQ?pwd=noxg
 
 ## 部署
 
