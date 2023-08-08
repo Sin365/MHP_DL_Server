@@ -32,6 +32,8 @@ CAPCOM已于2014年7越30日，停止了对MHP1初代的配信服务
 
 无需自行部署服务器。
 
+将ISO拷贝到PSP中，即可使用。直连服务器下载。
+
 下载地址：
 
 百度云：https://pan.baidu.com/s/1Nr811WUWFjuGF4IuzNfqxQ?pwd=noxg
