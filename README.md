@@ -4,7 +4,7 @@
 
 ## 说明
 
-本服务为 皓月云 axibug.com 原创服务
+本服务为 皓月云 axibug.com 原创服务 （2020年完全实现）
 
 Bilibili:
 
