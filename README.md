@@ -4,6 +4,12 @@
 
 ## 说明
 
+本服务为 皓月云 axibug.com 原创服务
+
+Bilibili:
+
+<a href="https://www.bilibili.com/video/BV1X5411W7gu/" title=""><img width = "320" height = "200"  src="https://i1.hdslb.com/bfs/archive/edf355f68cfe8e836230fd73282da1cf36f7a8c8.jpg@320w_200h_1c_!web-space-upload-video.webp" alt="" /></a>
+
 CAPCOM已于2014年7越30日，停止了对MHP1初代的配信服务
 
 体验不到黑狼鸟等任务，不再有完整体验，真的再也无法补救了吗
@@ -36,7 +42,7 @@ CAPCOM已于2014年7越30日，停止了对MHP1初代的配信服务
   * Mysql/MariaDB
   * Nginx/Apache
 
-###Step1：数据库
+### Step1：数据库
 
 在Mysql/MariaDB中，创建名为“mhpdl”的数据库。
 
@@ -44,7 +50,7 @@ CAPCOM已于2014年7越30日，停止了对MHP1初代的配信服务
 
 将你自己的脚本文件(.mib),放入“\BONUS\MHPSP”目录。
 
-###Step2
+### Step2
 
 在你的Web服务器中，Nginx/Apache 或别的web服务器，搭建本php站点。
 
@@ -53,10 +59,10 @@ CAPCOM已于2014年7越30日，停止了对MHP1初代的配信服务
 如：Nginx配置，在mime.types中加入
 
 ```
-    text/plain; charset=Shift_JIS         mib;
+text/plain; charset=Shift_JIS   mib;
 ```
 
-###Step3：config.php中配置数据连接
+### Step3：config.php中配置数据连接
 
 ```
 $haoyeu_dbip = '127.0.0.1';
@@ -66,4 +72,4 @@ $haoyue_dbuser = '';
 $haoyue_dbpwd = '';
 ```
 
-结束
+### 结束
